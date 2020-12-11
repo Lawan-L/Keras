@@ -1,2 +1,2 @@
-# deepLearning with keras
+# deepLearning
 Keras simply explained step by step
